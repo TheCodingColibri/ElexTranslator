@@ -1,0 +1,20 @@
+{
+  "source": {
+    "name": "Original (EN)",
+    "file": "./resources/original-strings-en.csv"
+  },
+  "compare": {
+    "name": "Modded (EN)",
+    "file": "./resources/modded-strings-en.csv"
+  },
+  "default_for_target": {
+    "name": "Suggestion (GER)",
+    "file": "./resources/suggestion-strings-ger.csv"
+  },
+  "target": {
+    "name": "Translation (GER)",
+    "file": "./target/result-strings-final.csv",
+    "run-with-auto-fill": false,
+    "auto-fill-value": "XXX-Fix-Me-XXX"
+  }
+}
